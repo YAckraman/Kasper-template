@@ -781,7 +781,7 @@ end header
   bottom: 0;
   background-color: var(--main-color);
 }
-.pricing .plans .plan .footer a {
+.pricing .plans .plan .foot a {
   display: block;
   padding: 20px;
   text-decoration: none;
